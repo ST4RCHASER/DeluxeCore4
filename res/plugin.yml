@@ -1,0 +1,10 @@
+name: DeluxeCore4
+version: 4.0
+description: a minecraft deluxe core plugin
+authors: [_StarChaser,ERTH180]
+main: me.starchaser.deluxe.core
+commands:
+  deluxecore:
+    description: Main commands
+    aliases: [deluxe]
+    usage: /deluxecore
